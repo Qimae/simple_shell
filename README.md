@@ -17,7 +17,7 @@ builtin.c --------- Contains all the builtin functions ie: exit, cd.
 
 handler.c ---------- Contains the processes and execution of the programs.
 
-man_3_shell ------- Custom man page.
+man_1_simple_shell ------- Custom man page.
 
 **Environment**
 
